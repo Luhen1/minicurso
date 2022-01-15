@@ -56,5 +56,6 @@ main > section button:hover {
 }
 
 #detalhes-container > li > p{
+    margin-left: 5px;
     color: white;    
 }
