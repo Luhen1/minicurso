@@ -48,3 +48,13 @@ main > section button:hover {
     list-style-type: none;
     width: 90%;
 }
+
+#detalhes-container > li {
+    align-items: baseline;
+    display: flex;
+
+}
+
+#detalhes-container > li > p{
+    color: white;    
+}
