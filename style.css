@@ -38,6 +38,10 @@ main > section button {
     padding: 9px 23px;
     text-transform: uppercase;
 }
+main > section button:hover {
+    background-color: darkblue;
+    cursor: pointer;
+    }
 
 #detalhes-container {
     font-weight: bold;
